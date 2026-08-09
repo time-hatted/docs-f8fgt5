@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-m5g56c.biggamingwin.online/sitemap.xml
